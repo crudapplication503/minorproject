@@ -2,6 +2,8 @@
 
 A simple CRUD (Create, Read, Update, Delete) web application built using Flask and MySQL.
 
+🌐 **Live Demo:** [Open Application](https://project-k-3f7c8.web.app)
+
 ## Features
 
 - User Login Authentication
